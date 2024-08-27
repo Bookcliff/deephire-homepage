@@ -1,9 +1,5 @@
-import React, { useEffect } from "react"
-import { Link } from "gatsby"
+import React from "react"
 
-import { Alert, Tag, Button, notification, Form, Input } from "antd"
-
-import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 import Page from "../components/Home/index.jsx"
